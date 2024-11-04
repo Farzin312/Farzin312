@@ -7,7 +7,7 @@ Full Stack Developer
 Hi, I'm Farzin Shifat, a passionate software engineer with expertise in backend development, machine learning, and web development. I love solving complex problems and building innovative solutions.
 
 * 🌍  I'm based in New York
-* 🖥️  See my portfolio at [my personal webpage](http://farzinshifat.com)
+* 🖥️  See my portfolio at [my personal webpage](http://farzindev.com)
 * ✉️  You can contact me at [farzinshifat@gmail.com](mailto:farzinshifat@gmail.com)
 * 🧠  I'm learning AI Development and Machine Learning
 * 🤝  I'm open to collaborating on startups and AI projects. Let's innovate together!
