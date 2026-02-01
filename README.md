@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I’m Farzin Shifat</h1>
+<h1 align="center">Farzin Shifat</h1>
 
 <h3 align="center">
-Backend Software Engineer · Secure APIs · Distributed Systems · Applied ML
+Backend Software Engineer · Secure APIs · Ecommerce & Platform Systems · Applied ML
 </h3>
 
 <p align="center">
@@ -11,35 +11,56 @@ New York, NY ·
 <a href="https://www.linkedin.com/in/farzin-shifat-5b7b43207/">LinkedIn</a>
 </p>
 
----
-
-## About Me
-
-I’m a **backend-focused software engineer** building **secure, scalable production systems used by real users**.
-
-My work centers on:
-- API design and service architecture  
-- Authentication & authorization (RBAC, RLS, JWT-based systems)  
-- Transactional data workflows and data integrity  
-- Cloud-deployed backend services  
-
-I integrate machine learning **as a backend capability**, including data preprocessing, vector embeddings, and retrieval-augmented generation—only where it adds practical value.
-
-I’m currently completing an **M.Sc. in Computer Science (AI & ML)** and seeking **junior backend or software engineering roles** where I can own backend services and grow into ML systems and platform work.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Farzin312&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Farzin312?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/Farzin312?label=Total%20Stars&style=flat&color=0e75b6" />
+</p>
 
 ---
 
-## Current Work
+## About
 
-- **Assistant CTO / Backend Lead — Sports Excitement**  
-  Designing and leading backend systems supporting web and mobile platforms.  
-  Focus areas include API architecture, data modeling, access control, and reliability.
+I’m a **backend-focused software engineer** building **production systems for real products**, including  
+**ecommerce platforms, marketplaces, and social-style applications**.
 
-- **Full Stack Engineer — Strictly Surf LLC**  
-  Building production ecommerce and booking systems with a backend-first architecture.
+My work focuses on:
+- Designing secure, scalable APIs
+- Authentication & authorization (RBAC, RLS, JWT-based systems)
+- Transactional workflows (payments, listings, orders, memberships)
+- Data integrity across multi-tenant platforms
+- Cloud-deployed backend services
 
-- **Independent Software Engineer**  
-  Developing backend-driven platforms for startups and small businesses, emphasizing secure data access and maintainable system design.
+I frequently use **Supabase (Postgres + Row Level Security)** and **Stripe** to implement real business logic such as checkout flows, subscriptions, payouts, and access control.  
+Machine learning is integrated **as backend infrastructure** (embeddings, retrieval-augmented generation, inference pipelines) only where it adds clear product value.
+
+I’m currently completing an **M.Sc. in Computer Science (AI & ML)** and seeking **junior backend or software engineering roles** with strong ownership and long-term growth into platform and ML systems.
+
+---
+
+## What I Build
+
+- Ecommerce platforms (products, carts, checkout, subscriptions)
+- Marketplaces (multi-seller listings, permissions, payouts)
+- Social & community platforms (profiles, feeds, roles)
+- Backend APIs with strong security and data guarantees
+
+---
+
+## Production Systems & Client Work
+
+Most of my current work is **private, in-production, or client-owned**, and therefore not publicly accessible.
+
+I actively design, build, and maintain:
+- Backend services powering real ecommerce and marketplace products
+- Stripe-based payment systems (subscriptions, one-time payments, gated access)
+- Supabase-backed platforms with strict row-level security
+- Multi-tenant architectures with role-based permissions
+- Data models and APIs designed for reliability and long-term maintainability
+
+Public repositories on this profile primarily reflect **experiments, prototypes, and isolated components** extracted from larger systems.
+
+I’m always happy to discuss architecture, trade-offs, and system design decisions in technical conversations or interviews.
 
 ---
 
@@ -48,8 +69,9 @@ I’m currently completing an **M.Sc. in Computer Science (AI & ML)** and seekin
 - Backend Architecture & API Design  
 - Authentication, Authorization & Access Control  
 - PostgreSQL & Relational Data Modeling  
-- Cloud Infrastructure, Docker & CI/CD  
-- Applied ML for Backend Systems (RAG, embeddings)
+- Stripe Payment & Subscription Flows  
+- Supabase-Backed Platform Systems  
+- Applied Machine Learning for Backend Features  
 
 ---
 
@@ -60,31 +82,48 @@ I’m currently completing an **M.Sc. in Computer Science (AI & ML)** and seekin
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" />
 </p>
 
-### Backend & Data
+### Backend & Platform
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" />
 </p>
 
-### Frontend (Supporting)
+### Frontend (Product-Facing)
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" />
 </p>
 
-### Infrastructure & Tools
+### Payments, Infra & Tooling
 <p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/stripe-colored.svg" width="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" />
 </p>
 
+### Applied Machine Learning
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" />
+</p>
+
 ---
+
+## GitHub Snapshot
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Farzin312&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farzin312&hide_border=true&radius=8" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farzin312&layout=compact&hide_border=true" />
+</p>
