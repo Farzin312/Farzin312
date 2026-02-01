@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farzin Shifat</h1>
+<h1 align="center">Hi, I'm Farzin Shifat</h1>
 <h3 align="center">Backend-focused Software Engineer building secure, scalable platform systems</h3>
 
 - 🔭 I’m currently working on **Production e-commerce, marketplace, and platform systems for Strictly Surf LLC & Sports Excitement (SPEX)**
