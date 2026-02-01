@@ -1,7 +1,5 @@
-<h1 align="center">Hi , I'm Farzin Shifat</h1>
+<h1 align="center">Hi 👋, I'm Farzin Shifat</h1>
 <h3 align="center">Backend-focused Software Engineer building secure, scalable platform systems</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzin312" alt="farzin312" /></a> </p>
 
 - 🔭 I’m currently working on **Production e-commerce, marketplace, and platform systems for Strictly Surf LLC & Sports Excitement (SPEX)**
 
