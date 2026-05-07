@@ -10,17 +10,15 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/farzin-shifat-5b7b43207/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-171717?style=for-the-badge&logo=linkedin&logoColor=FFBF00&labelColor=171717" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:farzinshifat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20out-171717?style=for-the-badge&logo=gmail&logoColor=FFBF00&labelColor=171717" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%E2%80%94%20%E2%9C%A6%20%E2%80%94-A37100?style=flat-square&labelColor=FAFAF7" alt="" />
-</p>
+<p align="center"><sub>· · · &nbsp;&nbsp; ✦ &nbsp;&nbsp; · · ·</sub></p>
 
 ### About
 
@@ -43,60 +41,87 @@ I lead engineering as CTO at one founding-stage startup and build solo as sole e
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=FFBF00&labelColor=171717" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=node.js&logoColor=FFBF00&labelColor=171717" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=FFBF00&labelColor=171717" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-171717?style=flat-square&logo=postgresql&logoColor=FFBF00&labelColor=171717" alt="SQL" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 **Backend & frameworks**
 
 <p>
-  <img src="https://img.shields.io/badge/NestJS-171717?style=flat-square&logo=nestjs&logoColor=FFBF00&labelColor=171717" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=next.js&logoColor=FFBF00&labelColor=171717" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=FFBF00&labelColor=171717" alt="React" />
-  <img src="https://img.shields.io/badge/Stripe-171717?style=flat-square&logo=stripe&logoColor=FFBF00&labelColor=171717" alt="Stripe" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
 
 **Databases**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=FFBF00&labelColor=171717" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-171717?style=flat-square&logo=mysql&logoColor=FFBF00&labelColor=171717" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-171717?style=flat-square&logo=mongodb&logoColor=FFBF00&labelColor=171717" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-171717?style=flat-square&logo=supabase&logoColor=FFBF00&labelColor=171717" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
 </p>
 
-**Infrastructure & cloud**
+**Cloud & infrastructure**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-171717?style=flat-square&logo=amazon-aws&logoColor=FFBF00&labelColor=171717" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-171717?style=flat-square&logo=docker&logoColor=FFBF00&labelColor=171717" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-171717?style=flat-square&logo=nginx&logoColor=FFBF00&labelColor=171717" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Linux-171717?style=flat-square&logo=linux&logoColor=FFBF00&labelColor=171717" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-**AI / ML**
+**AI / ML in production**
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-171717?style=flat-square&logo=pytorch&logoColor=FFBF00&labelColor=171717" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-171717?style=flat-square&logo=scikit-learn&logoColor=FFBF00&labelColor=171717" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-171717?style=flat-square&logo=openai&logoColor=FFBF00&labelColor=171717" alt="RAG Pipelines" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-A37100?style=flat-square&logo=databricks&logoColor=white" alt="RAG Pipelines" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
+
+**ML foundations**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+**AWS ML toolkit** &nbsp; <sub><em>(in study, AWS Machine Learning Associate)</em></sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=flat-square&logo=amazonsagemaker&logoColor=FF9900" alt="Amazon SageMaker" />
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="Amazon Bedrock" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="Amazon EC2" />
+</p>
+
+<p align="center"><sub>· · · &nbsp;&nbsp; ✦ &nbsp;&nbsp; · · ·</sub></p>
 
 ### GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farzin312&bg_color=FAFAF7&color=171717&line=A37100&point=171717&area=true&area_color=FFBF00&hide_border=true&custom_title=Contribution%20Activity&radius=8" alt="Contribution activity" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Farzin312&background=FAFAF7&border=E5E5E5&stroke=A37100&ring=A37100&fire=FFBF00&currStreakNum=171717&sideNums=171717&currStreakLabel=A37100&sideLabels=525252&dates=737373&excludeDaysLabel=A8A29E" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farzin312&theme=default" alt="GitHub stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farzin312&theme=default" alt="Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farzin312&theme=vue" alt="Most commit language" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farzin312&theme=vue" alt="Repos per language" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%E2%80%94%20%E2%9C%A6%20%E2%80%94-A37100?style=flat-square&labelColor=FAFAF7" alt="" />
-</p>
+<p align="center"><sub>· · · &nbsp;&nbsp; ✦ &nbsp;&nbsp; · · ·</sub></p>
 
 <p align="center"><em>Most of my production work lives in private repos. Case studies and live writing are at <a href="https://www.farzinbuilds.com">farzinbuilds.com</a>.</em></p>
