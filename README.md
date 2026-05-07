@@ -1,19 +1,26 @@
 <h1 align="center">Farzin Shifat</h1>
-<h3 align="center">Founding-stage engineer · Backend-first full-stack · Production systems with applied AI</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=4200&pause=600&color=A37100&center=true&vCenter=true&width=760&lines=Founding-stage+engineer.;Backend-first+full-stack.;Production+systems+with+applied+AI." alt="Founding-stage engineer. Backend-first full-stack. Production systems with applied AI." />
+</p>
 
 <p align="center">
   <a href="https://www.farzinbuilds.com">
-    <img src="https://img.shields.io/badge/Portfolio-farzinbuilds.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-farzinbuilds.com-171717?style=for-the-badge&logo=vercel&logoColor=FFBF00&labelColor=171717" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/farzin-shifat-5b7b43207/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-171717?style=for-the-badge&logo=linkedin&logoColor=FFBF00&labelColor=171717" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:farzinshifat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Reach%20out-171717?style=for-the-badge&logo=gmail&logoColor=FFBF00&labelColor=171717" alt="Email" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/-%E2%80%94%20%E2%9C%A6%20%E2%80%94-A37100?style=flat-square&labelColor=FAFAF7" alt="" />
+</p>
 
 ### About
 
@@ -36,54 +43,60 @@ I lead engineering as CTO at one founding-stage startup and build solo as sole e
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=FFBF00&labelColor=171717" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=node.js&logoColor=FFBF00&labelColor=171717" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=FFBF00&labelColor=171717" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-171717?style=flat-square&logo=postgresql&logoColor=FFBF00&labelColor=171717" alt="SQL" />
 </p>
 
 **Backend & frameworks**
 
 <p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/NestJS-171717?style=flat-square&logo=nestjs&logoColor=FFBF00&labelColor=171717" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=next.js&logoColor=FFBF00&labelColor=171717" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=FFBF00&labelColor=171717" alt="React" />
+  <img src="https://img.shields.io/badge/Stripe-171717?style=flat-square&logo=stripe&logoColor=FFBF00&labelColor=171717" alt="Stripe" />
 </p>
 
 **Databases**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=FFBF00&labelColor=171717" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-171717?style=flat-square&logo=mysql&logoColor=FFBF00&labelColor=171717" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-171717?style=flat-square&logo=mongodb&logoColor=FFBF00&labelColor=171717" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-171717?style=flat-square&logo=supabase&logoColor=FFBF00&labelColor=171717" alt="Supabase" />
 </p>
 
 **Infrastructure & cloud**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-171717?style=flat-square&logo=amazon-aws&logoColor=FFBF00&labelColor=171717" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-171717?style=flat-square&logo=docker&logoColor=FFBF00&labelColor=171717" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-171717?style=flat-square&logo=nginx&logoColor=FFBF00&labelColor=171717" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-171717?style=flat-square&logo=linux&logoColor=FFBF00&labelColor=171717" alt="Linux" />
 </p>
 
 **AI / ML**
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-6E40C9?style=flat-square&logo=openai&logoColor=white" alt="RAG Pipelines" />
+  <img src="https://img.shields.io/badge/PyTorch-171717?style=flat-square&logo=pytorch&logoColor=FFBF00&labelColor=171717" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-171717?style=flat-square&logo=scikit-learn&logoColor=FFBF00&labelColor=171717" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-171717?style=flat-square&logo=openai&logoColor=FFBF00&labelColor=171717" alt="RAG Pipelines" />
 </p>
 
 ### GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Farzin312&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=24292E&bg_color=00000000" alt="Farzin's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farzin312&layout=compact&hide_border=true&title_color=0A66C2&text_color=24292E&bg_color=00000000" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=Farzin312&background=FAFAF7&border=E5E5E5&stroke=A37100&ring=A37100&fire=FFBF00&currStreakNum=171717&sideNums=171717&currStreakLabel=A37100&sideLabels=525252&dates=737373&excludeDaysLabel=A8A29E" alt="GitHub streak" />
 </p>
 
----
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farzin312&theme=default" alt="GitHub stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farzin312&theme=default" alt="Languages" />
+</p>
 
-Most of my production work lives in private repos. Case studies and live writing are at [farzinbuilds.com](https://www.farzinbuilds.com).
+<p align="center">
+  <img src="https://img.shields.io/badge/-%E2%80%94%20%E2%9C%A6%20%E2%80%94-A37100?style=flat-square&labelColor=FAFAF7" alt="" />
+</p>
+
+<p align="center"><em>Most of my production work lives in private repos. Case studies and live writing are at <a href="https://www.farzinbuilds.com">farzinbuilds.com</a>.</em></p>
