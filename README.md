@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.farzinbuilds.com">
-    <img src="https://img.shields.io/badge/Portfolio-farzinbuilds.com-171717?style=for-the-badge&logo=vercel&logoColor=FFBF00&labelColor=171717" alt="Portfolio" />
+  <a href="https://www.farzinbuilds.com/about">
+    <img src="https://img.shields.io/badge/About-farzinbuilds.com-171717?style=for-the-badge&logo=vercel&logoColor=FFBF00&labelColor=171717" alt="About" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/farzin-shifat-5b7b43207/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:farzinshifat@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=farzinshifat@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
 </p>
@@ -113,4 +113,4 @@ Most production work lives in private repos and on GitLab. Public case studies, 
 
 <p align="center"><sub>· · · &nbsp;&nbsp; ✦ &nbsp;&nbsp; · · ·</sub></p>
 
-<p align="center"><em>Reach me at <a href="mailto:farzinshifat@gmail.com">farzinshifat@gmail.com</a> or via <a href="https://www.linkedin.com/in/farzin-shifat-5b7b43207/">LinkedIn</a>.</em></p>
+<p align="center"><em>Reach me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=farzinshifat@gmail.com">farzinshifat@gmail.com</a> or via <a href="https://www.linkedin.com/in/farzin-shifat-5b7b43207/">LinkedIn</a>.</em></p>
