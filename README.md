@@ -107,21 +107,10 @@ I lead engineering as CTO at one founding-stage startup and build solo as sole e
 
 <p align="center"><sub>· · · &nbsp;&nbsp; ✦ &nbsp;&nbsp; · · ·</sub></p>
 
-### GitHub
+### Where to find the work
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farzin312&bg_color=FAFAF7&color=171717&line=A37100&point=171717&area=true&area_color=FFBF00&hide_border=true&custom_title=Contribution%20Activity&radius=8" alt="Contribution activity" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Farzin312&background=FAFAF7&border=E5E5E5&stroke=A37100&ring=A37100&fire=FFBF00&currStreakNum=171717&sideNums=171717&currStreakLabel=A37100&sideLabels=525252&dates=737373&excludeDaysLabel=A8A29E" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farzin312&theme=vue" alt="Most commit language" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farzin312&theme=vue" alt="Repos per language" />
-</p>
+Most production work lives in private repos and on GitLab. Public case studies, articles, and a live resume are at [farzinbuilds.com](https://www.farzinbuilds.com). The pins below this section showcase the public surface; the deeper work is at the portfolio.
 
 <p align="center"><sub>· · · &nbsp;&nbsp; ✦ &nbsp;&nbsp; · · ·</sub></p>
 
-<p align="center"><em>Most of my production work lives in private repos. Case studies and live writing are at <a href="https://www.farzinbuilds.com">farzinbuilds.com</a>.</em></p>
+<p align="center"><em>Reach me at <a href="mailto:farzinshifat@gmail.com">farzinshifat@gmail.com</a> or via <a href="https://www.linkedin.com/in/farzin-shifat-5b7b43207/">LinkedIn</a>.</em></p>
